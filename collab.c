@@ -14,8 +14,13 @@
 // An example is shown below.
 // 
 // UIC CS 211, Fall 2022
-/*
 #include <stdio.h>
+
+void jwest34_arami53() 
+{
+  printf("Jackson West and Alejandro Ramirez\n");
+  printf("We learned that we need the link to a remote repository to clone it into our own repository. We GIT it now.\n");
+}
 
 void reed_ekidan2() {
   printf("Dale Reed and Ellen Kidane\n");
@@ -26,8 +31,8 @@ int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
 
+    jwest34_arami53();  
     reed_ekidan2();
-
+    
     return 0;
 }
-*/
